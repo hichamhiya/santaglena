@@ -15,18 +15,18 @@
             "admob_int": "ca-app-pub-3940256099942544/1033173712",
 
             "name": "Santa Claus",
-            "photo": "https://hichamhiya.github.io/gbtosanta/profile.jpg",
-            "voice": "https://hichamhiya.github.io/gbtosanta/audiosanta.mp3",
+            "photo": "https://hichamhiya.github.io/santaglena/profileglena.jpg",
+            "voice": "https://hichamhiya.github.io/santaglena/audiosantaglena.mp3",
             "video": "https://hichamhiya.github.io/gbtosanta/videosanta.mp4",
             "stories": [
-                "https://hichamhiya.github.io/gbtosanta/story1.jpg",
-                "https://hichamhiya.github.io/gbtosanta/story2.jpg",
-                "https://hichamhiya.github.io/gbtosanta/story3.jpg"
+                "https://hichamhiya.github.io/santaglena/story1glena.jpg",
+                "https://hichamhiya.github.io/gbtosanta/story2glena.jpg",
+                "https://hichamhiya.github.io/gbtosanta/story3glena.jpg"
             ],
             "wallpapers": [
-                "https://hichamhiya.github.io/gbtosanta/image1.jpg",
-                "https://hichamhiya.github.io/gbtosanta/image2.jpg",
-                "https://hichamhiya.github.io/gbtosanta/image3.jpg"
+                "https://hichamhiya.github.io/santaglena/image1glena.jpg",
+                "https://hichamhiya.github.io/santaglena/image2glena.jpg",
+                "https://hichamhiya.github.io/gbtosanta/image3glena.jpg"
                 
             ]
 
